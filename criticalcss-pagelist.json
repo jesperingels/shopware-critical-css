@@ -1,0 +1,34 @@
+{
+  "domains": [
+    {
+      "name": "local",
+      "link": "http://example.local/"
+    },
+    {
+      "name": "staging",
+      "link": "https://staging.example.io/"
+    },
+    {
+      "name": "test1",
+      "link": "https://test1.example.io/"
+    },
+    {
+      "name": "live",
+      "link": "https://www.example.io/"
+    }
+  ],
+  "urls": [
+    {
+      "name": "path-home",
+      "link": ""
+    },
+    {
+      "name": "path-category",
+      "link": "category"
+    },
+    {
+      "name": "path-product",
+      "link": "product-01/"
+    }
+  ]
+}
